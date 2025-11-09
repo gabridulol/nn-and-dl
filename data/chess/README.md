@@ -1,4 +1,4 @@
-# Lichess Elite Database
+# Lichess Elite Database/Dataset
 This repository contains a curated collection of games from [lichess.org](https://lichess.org), sourced from the [Lichess Database](https://database.lichess.org/). The focus is on games played by highly-rated players.
 
 ## License
