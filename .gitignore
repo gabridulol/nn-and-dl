@@ -1,4 +1,5 @@
-data/chess/lichess-elite-database/
+data/chess/lichess-elite-database/lichess_elite_*.pgn
+data/chess/lichess-elite-dataset/lichess_elite_*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
