@@ -1,5 +1,5 @@
-data/chess/lichess-elite-database/lichess_elite_*.pgn
-data/chess/lichess-elite-dataset/lichess_elite_*.txt
+data/chess/lichess-elite-*/lichess_elite_*.pgn
+data/chess/lichess-elite-*/lichess_elite_*.txt
 models/*
 
 # Byte-compiled / optimized / DLL files
