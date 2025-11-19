@@ -11,7 +11,13 @@ All games played on [lichess.org](https://lichess.org) are in the public domain.
 - [Lichess Elite Database](https://database.nikonoel.fr) - A curated collection of elite games from Lichess.
 
 ### Lichess Elite Dataset
-- [Lichess Elite Dataset](https://huggingface.co/datasets/gabridulol/chess) - A comprehensive `.txt` dataset containing game results and moves from January 2014 to December 2024 in `[Result 1-0 | 1/2-1/2 | 0-1] 1. m1 m2 2. m3 m4 ...` format.
+- **[Lichess Elite Dataset](https://huggingface.co/datasets/gabridulol/chess)** -  A comprehensive dataset containing games from **January 2014 to December 2024**, available in both formats:
+    ```
+    [Result 1-0 | 1/2-1/2 | 0-1] 1. m1 m2 2. m3 m4 ...
+    ```
+    ```json
+    {"fen": "...", "move": "..."}
+    ```
 
 ## Resources
 - [Lichess Database](https://database.lichess.org/)
